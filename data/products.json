@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "item0001",
+      "title": "Widget",
+      "price": 9.99
+    },
+    {
+      "id": "item0002",
+      "title": "Premium Widget",
+      "price": 19.99
+    },
+    {
+      "id": "item0003",
+      "title": "Deluxe Widget",
+      "price": 29.99
+    }
+  ]
+}
